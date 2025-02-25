@@ -5,13 +5,13 @@ Indexes in MongoDB are essential for optimizing query performance. However, they
 ---
 
 ## **Table of Contents**
-1. [Single vs. Compound Index](#single-vs-compound-index)
-2. [Compound Index Best Practices](#compound-index-best-practices)
-3. [Covered Queries & Projection Optimization](#covered-queries--projection-optimization)
-4. [Sorting & Indexes](#sorting--indexes)
-5. [TTL Indexes for Automatic Data Expiry](#ttl-indexes-for-automatic-data-expiry)
-6. [Compound vs. Multi-Key Indexes](#compound-vs-multi-key-indexes)
-7. [Write Performance vs. Indexing Overhead](#write-performance-vs-indexing-overhead)
+1. [Single vs. Compound Index](#1-single-vs-compound-index)
+2. [Compound Index Best Practices](#2-compound-index-best-practices)
+3. [Covered Queries & Projection Optimization](#3-covered-queries--projection-optimization)
+4. [Sorting & Indexes](#4-sorting--indexes)
+5. [TTL Indexes for Automatic Data Expiry](#5-ttl-indexes-for-automatic-data-expiry)
+6. [Compound vs. Multi-Key Indexes](#6-compound-vs-multi-key-indexes)
+7. [Write Performance vs. Indexing Overhead](#7-write-performance-vs-indexing-overhead)
 
 ---
 
